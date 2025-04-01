@@ -7,4 +7,4 @@
 ### Criar códigos e funções JavaScript;
 ### Disponibilizar o link de acesso do site por meio de um CR Code.
 
-![Restaurante Lavosier](https://projeto-restaurante-lavosier-v1n5.vercel.app/)
+![Restaurante Lavosier](https://projeto-restaurante-lavosier-v1n5.vercel.app)
