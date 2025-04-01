@@ -8,3 +8,5 @@
 ### Disponibilizar o link de acesso do site por meio de um CR Code.
 
 ![Restaurante Lavosier](https://github.com/lipenspereira39/Projeto-Restaurante-Lavosier/blob/main/Restaurante_Lavosier.png)
+
+![QR CODE](https://github.com/lipenspereira39/Projeto-Restaurante-Lavosier/blob/main/qrcode_projeto-restaurante-lavosier-v1n5.vercel.app.png)
